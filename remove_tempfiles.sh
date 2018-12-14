@@ -1,9 +1,9 @@
 #!/bin/bash -eu
-rm -rf symfony3-heroku/vendor/*
-rm -rf symfony3-heroku/var/cache/*
-rm -rf symfony3-heroku/var/logs/*
-rm -rf symfony3-heroku/var/sessions/*
-rm -rf /tmp/symfony3/vendor/*
-rm -rf /tmp/symfony3/var/cache/*
-rm -rf /tmp/symfony3/var/logs/*
-rm -rf /tmp/symfony3/var/sessions/*
+rm -rf wordpress-heroku/vendor/*
+rm -rf wordpress-heroku/var/cache/*
+rm -rf wordpress-heroku/var/logs/*
+rm -rf wordpress-heroku/var/sessions/*
+rm -rf /tmp/wordpress/vendor/*
+rm -rf /tmp/wordpress/var/cache/*
+rm -rf /tmp/wordpress/var/logs/*
+rm -rf /tmp/wordpress/var/sessions/*
